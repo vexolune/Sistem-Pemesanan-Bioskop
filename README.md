@@ -22,7 +22,7 @@
    python -m pip install -r requirements.txt
    ```
 
-4. **Paste query.sql into MYSQL database **
+4. **Paste query.sql into MYSQL database**
    ```bash
    CREATE DATABASE cinema_system;
    USE cinema_system;
